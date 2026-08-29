@@ -1,0 +1,10 @@
+ID,username,password,Type
+1,guest1,123,GUEST
+2,user1,1234,USER
+3,manager1,1234,MANAGER
+4,admin1,1234,ADMIN
+5,david,123,USER
+6,gabi,123,USER
+7,gggg,123,USER
+8,weew,123,USER
+9,dada,123,USER
